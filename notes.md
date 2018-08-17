@@ -1,0 +1,77 @@
+# Buidl Podcast #52
+
+- tmux - Terminal Multiplexer
+- Sites
+  - Page
+  - Man page
+  - Arch Linux Tmux Section
+  - Book: tmux
+  - tmuxinator gem
+- Install
+  - Mac
+  - Linux
+- Current version `tmux -V`
+- From where tmux is started `which tmux`
+- What is one key benefit?
+  - Creating a nodejs server. What happens if you quit the command line?
+  - Now with tmux, same task. Even if we close the terminal :D
+  - Key benefit: you can keep running tasks.
+- Sessions
+  - Concept
+  - New session
+    - Identification on status bar
+    - Close session
+  - New session
+    - Create session, run ping google.com
+    - Detach
+    - List sessions
+    - Attach to previous session
+- Windows
+  - New session with new window `tmux new -s {session} -n {window}`
+  - New window inside the same session (<prefix>-C)
+    - Notice the status bar: * means current window
+  - Rename window
+  - Navigating between windows
+    - <prefix>-n move to next
+    - <prefix>-p move to previous
+    - <prefix>{window index} move right to the selected window
+    - <prefix>-w opens a window menu
+    - <prefix>-f searches for window name
+    - Session > Windows > Panes
+      - A Session can have multiple Windows;
+      - And each Window can have several Panes.
+- Panes
+  - New session
+    - Divide a window vertically
+    - Divide a Window horizontally
+    - Actve Pane with highlighted border
+    - <prefix>-o navigates between panes
+    - <prefix>-space changes the layout between vertical and horizontal
+    - <prefix>-x closes a pane
+    - <prefix>-[ for scrolling
+- Configuration
+  - .tmux.conf file
+    - Redefine prefix
+      - Set prefix, unbind prefix, bind 
+    - Prefix delay time `escape-time`
+    - Define base index for window `set -g base-index 1`
+    - Define base index for panes `set -g pane-base-index 1`
+    - Bind a source command `bin r source-file ~/.tmux.conf \; display "Reloaded config file!`
+    - Easier split windows
+      - bind v split-window -h
+      - bind h split-window -v
+    - Pane arrangement
+      - `set -g pane-border-fg green`
+      - `set -g pane-border-bg black`
+      - `set -g pane-active-border-fg white`
+      - `set -g pane-active-border-bg yellow`
+    - Status bar
+      - `set -g status-left "Session:#S"`
+      - `set -g status-right "#H #[fg-white, bg=default]%a%l:%M:%S %p, %d %b#[default] "`
+      - `set -g status-justify center`
+- Tmuxinator
+  - Start
+  - Definitions
+
+
+
