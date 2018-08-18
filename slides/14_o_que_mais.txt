@@ -1,0 +1,38 @@
+
+
+
+
+
+       ____                                       _    ___  
+      / __ \                                     (_)  |__ \ 
+     | |  | |   __ _ _   _  ___   _ __ ___   __ _ _ ___  ) |
+     | |  | |  / _` | | | |/ _ \ | '_ ` _ \ / _` | / __|/ / 
+     | |__| | | (_| | |_| |  __/ | | | | | | (_| | \__ \_|  
+      \____/   \__, |\__,_|\___| |_| |_| |_|\__,_|_|___(_)  
+                  | |                                       
+                  |_|                                       
+
+
+
+        $ ~ Plugins!
+
+            - Persistir sessão
+
+            - Indicadores de bateria e CPU
+
+            - Gerenciador de pĺugin (similar ao Pathogen)
+
+            - Etc
+
+        $ ~ Pair programming
+
+            - tmux via ssh num servidor
+
+            - tmate
+
+        $ ~ tmux + vim, um caso de amor S2
+
+            - Combinação muito massa!
+
+
+

@@ -1,0 +1,35 @@
+
+
+
+
+
+       ____                         __   _                       ___  
+      / __ \                       /_/  | |                     |__ \ 
+     | |  | |   __ _ _   _  ___    ___  | |_ _ __ ___  _   ___  __ ) |
+     | |  | |  / _` | | | |/ _ \  / _ \ | __| '_ ` _ \| | | \ \/ // / 
+     | |__| | | (_| | |_| |  __/ |  __/ | |_| | | | | | |_| |>  <|_|  
+      \____/   \__, |\__,_|\___|  \___|  \__|_| |_| |_|\__,_/_/\_(_)  
+                  | |                                                 
+                  |_|                                                 
+
+
+
+        $ ~ Terminal Multiplexer
+
+        $ ~ Criado em Novembro de 2017 por Nicholas Marriot
+
+        $ ~ Escrito em C
+
+        $ ~ Gera diversos terminais (ou janelas) únicos e individuais que permitem a execução individual de programas.
+
+
+
+        Destaques:
+
+
+        $ ~ Roda em qualquer terminal
+
+        $ ~ Prático (depois que se pega o jeito, é difícil viver sem)
+
+        $ ~ Hackudo Over 9000
+	

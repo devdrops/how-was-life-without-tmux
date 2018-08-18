@@ -14,18 +14,18 @@ version:
 
 bash:
 	docker run -ti --rm \
-		-v $(CURDIR):/talk \
+		-v $(CURDIR)/slides:/talk \
 		-w /talk \
 		devdrops/tmux:latest bash
 
-new:
+tmuxinator-new:
 	docker run -ti --rm \
 		-v $(CURDIR)/tmuxinator:/talk \
 		-w /talk \
 		devdrops/tmux:latest \
 		tmuxinator new talk
 
-start:
+tmuxinator-start:
 	docker run -ti --rm \
 		-v $(CURDIR)/tmuxinator:/talk \
 		-w /talk \
