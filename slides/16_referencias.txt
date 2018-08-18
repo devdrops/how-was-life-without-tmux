@@ -1,0 +1,33 @@
+
+
+
+
+
+      _____       __          //\            _           
+     |  __ \     / _|        |/ \|          (_)          
+     | |__) |___| |_ ___ _ __ ___ _ __   ___ _  __ _ ___ 
+     |  _  // _ \  _/ _ \ '__/ _ \ '_ \ / __| |/ _` / __|
+     | | \ \  __/ ||  __/ | |  __/ | | | (__| | (_| \__ \
+     |_|  \_\___|_| \___|_|  \___|_| |_|\___|_|\__,_|___/                                                       
+
+
+
+        $ ~ man tmux
+
+        $ ~ dot files dos outros :D
+
+        $ ~ https://github.com/tmux/tmux
+
+        $ ~ https://build-podcast.com/tmux/
+
+        $ ~ https://www.sitepoint.com/10-killer-tmux-tips/
+
+        $ ~ https://content.pivotal.io/blog/how-we-use-tmux-for-remote-pair-programming
+
+        $ ~ https://leanpub.com/the-tao-of-tmux/read
+
+        $ ~ http://dotshare.it/category/terms/tmux/
+
+        $ ~ https://wiki.archlinux.org/index.php/tmux
+
+

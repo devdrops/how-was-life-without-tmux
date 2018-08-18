@@ -1,0 +1,31 @@
+
+
+
+
+
+      _____       __  _   _             _____ 
+     |  __ \     /_/ | | (_)           | ____|
+     | |__) | __ __ _| |_ _  ___ __ _  | |__  
+     |  ___/ '__/ _` | __| |/ __/ _` | |___ \ 
+     | |   | | | (_| | |_| | (_| (_| |  ___) |
+     |_|   |_|  \__,_|\__|_|\___\__,_| |____/ 
+                                                 
+    
+
+        $ ~ Sincronizar comandos nos Painéis de uma Janela
+
+            1. Abrir uma Janela
+
+            2. Criar vários Painéis
+
+            3. `<prefixo>-:` para abrir o prompt de comando do tmux
+
+            4. `setw synchronize-panes`
+
+            5. `echo 'SHAZAM!!!' | cowsay`
+
+            6. `setw synchronize-panes`
+
+            7. Fechar a Janela
+
+
