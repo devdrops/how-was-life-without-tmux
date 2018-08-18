@@ -22,5 +22,5 @@
 
             4. `tmux ls` para listar as Sessões
 
-            5. `tmux attach -t htopzera` para voltar à Sessão (attach) 
+            5. `tmux attach -t htopzera` para voltar a Sessão(attach) 
 
