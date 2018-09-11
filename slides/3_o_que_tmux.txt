@@ -16,7 +16,7 @@
 
         $ ~ Terminal Multiplexer
 
-        $ ~ Criado em Novembro de 2017 por Nicholas Marriot
+        $ ~ Criado em Novembro de 2007 por Nicholas Marriot
 
         $ ~ Escrito em C
 
